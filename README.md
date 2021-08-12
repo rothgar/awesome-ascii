@@ -1,6 +1,8 @@
 # awesome-ascii
 
-git.io/unix
-git.io/coffee
+```
+curl git.io/unix
+curl git.io/coffee
 
 telnet towel.blinkenlights.nl
+```
