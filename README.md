@@ -1,2 +1,6 @@
 # awesome-ascii
-Websites that have fun terminal art and interactions
+
+git.io/unix
+git.io/coffee
+
+telnet towel.blinkenlights.nl
