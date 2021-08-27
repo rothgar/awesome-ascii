@@ -55,3 +55,13 @@ curl parrot.live
 ```
 curl -s -L http://bit.ly/10hA8iC | bash
 ```
+
+### Crypto coin information
+```bash
+ssh cointop.sh
+```
+
+### Crypto coin rates
+```bash
+curl rate.sx
+```
